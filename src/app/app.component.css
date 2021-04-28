@@ -1,0 +1,38 @@
+.filterposition{
+    display: flex;
+    position: relative;
+    float: right; 
+    margin-right: 120px;
+    margin-bottom: 20px;
+}
+
+tr td.only-show-on-hover {
+    opacity: 0;
+    float: center;
+}
+tr:hover td.only-show-on-hover  {
+    opacity: 1;
+    color:blue;
+}
+
+.padding{
+    padding: 20px;
+}
+
+.width{
+    width: 90%;
+}
+
+.margin{
+    margin:20px;
+}
+
+.tablewidth{
+    margin: 20px; 
+    width: 90%;
+}
+
+.stockdetail{
+    border-style: ridge; 
+    width:60%
+}

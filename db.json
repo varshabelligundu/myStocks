@@ -1,0 +1,33 @@
+{
+  "getDetails": [
+    {   
+      "symbol": "AAPL",
+      "name": "APPLE",
+      "last_price": 133,
+      "tag": "Favorite",
+      "market_cap" : "2.2T"
+    },
+    {  
+      "symbol": "CSCO",
+      "name": "CISCO",
+      "last_price": 51,
+      "tag": "Watching",
+      "market_cap" : "100.8B"
+    },
+    {  
+      "symbol": "T",
+      "name": "T-Mobile",
+      "last_price": 29,
+      "tag": "Watching",
+      "market_cap" : "89.8B"
+    },
+    {
+      "symbol": "VMW",
+      "name": "VMWare",
+      "last_price": 165,
+      "tag": "ForFriends",
+      "market_cap" : "98.9B"
+    }
+  ]
+}
+
